@@ -23,7 +23,7 @@
   </a>
 </div>
 
-## I am Bienvenu Kouassi, a Software Engineer
+## I am Bienvenu Kouassi, a Software Engineer 🇨🇮
 
 
 - 🔭 I am currently working on a **crypto wallet project**
