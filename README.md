@@ -18,7 +18,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/f977f0bf29f94dfda8683b6dcc0899bb.png?r=386"
+      src="https://api.daily.dev/devcards/f977f0bf29f94dfda8683b6dcc0899bb.png?r=upj"
     />
   </a>
 </div>
