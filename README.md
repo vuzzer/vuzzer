@@ -25,11 +25,12 @@
 
 ## I am Bienvenu Kouassi, a Software Engineer 🇨🇮
 
-
+<!--
 - 🔭 I am currently working on a **crypto wallet project**
 - 🌱 I’m currently learning about **cloud computing, blockchain and machine learning**
 - 👯 I am looking to collaborate on **blockchain projects**
 - 💬 Ask me any *question* you want
+-->
 <!--
 - 🤔 I’m looking for help with ...
 
