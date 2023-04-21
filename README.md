@@ -26,7 +26,7 @@
 ## I am Bienvenu Kouassi, a Software Engineer 🇨🇮
 
 
-- 🌱 I’m currently learning about **cloud computing, blockchain and machine learning**
+- 🌱 I’m currently working about **mobile development project**
 - 👯 I am looking to collaborate on **blockchain projects**
 - 💬 Ask me any *question* you want
 
