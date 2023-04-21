@@ -26,7 +26,7 @@
 ## I am Bienvenu Kouassi, a Software Engineer 🇨🇮
 
 
-- 🌱 I’m currently working about **mobile development project**
+- 🌱 I’m currently working on **mobile development projects**
 - 👯 I am looking to collaborate on **blockchain projects**
 - 💬 Ask me any *question* you want
 
