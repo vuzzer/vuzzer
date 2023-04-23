@@ -26,8 +26,8 @@
 ## I am Bienvenu Kouassi, a Software Engineer 🇨🇮
 
 
-- 🌱 I’m currently working on **mobile development projects**
-- 👯 I am looking to collaborate on **blockchain projects**
+- 🌱 I’m currently working on **mobile development projects using Flutter**
+- 👯 I am looking to collaborate on **open source Blockchain or Flutter projects**
 - 💬 Ask me any *question* you want
 
 <!--
