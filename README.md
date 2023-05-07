@@ -27,7 +27,7 @@
 
 
 - 🌱 I’m currently working on **mobile development projects using Flutter**
-- 👯 I am looking to collaborate on **open source Blockchain or Flutter projects**
+- 👯 I contribute on **AppFlowy**
 - 💬 Ask me any *question* you want
 
 <!--
