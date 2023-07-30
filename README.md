@@ -14,13 +14,6 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/f977f0bf29f94dfda8683b6dcc0899bb.png?r=upj"
-    />
-  </a>
 </div>
 
 ## I am Bienvenu Kouassi, a Software Engineer 🇨🇮
