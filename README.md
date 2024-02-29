@@ -18,12 +18,11 @@
 
 ## I am Bienvenu Kouassi, a Software Engineer 🇨🇮
 
-
+<!--
 - 🌱 I’m currently working on **mobile development projects using Flutter**
 - 👯 I contribute on **AppFlowy**
 - 💬 Ask me any *question* you want
 
-<!--
 - 🤔 I’m looking for help with ...
 - 🔭 I am currently working on a **crypto wallet project**
 - 📫 How to reach me: 
