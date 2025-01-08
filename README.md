@@ -16,7 +16,7 @@
 
 </div>
 
-## I am Bienvenu Kouassi, a Cloud & Blockchain Developer
+## I am Bienvenu Kouassi, a Software Engineer
 
 <!--
 - 🌱 I’m currently working on **mobile development projects using Flutter**
